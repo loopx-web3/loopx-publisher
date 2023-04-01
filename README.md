@@ -1,2 +1,2 @@
-# loopx-publisher
-LoopX Network Publisher
+# LoopX Network Publisher
+Tool used for LoopX Network data publishing to chains.
