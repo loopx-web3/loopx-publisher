@@ -3,6 +3,7 @@
 Tool used for LoopX Network data publishing to chains.
 
 # api test
+
 ```
 npm run api-test -- --network {network(Arbitrum/Avalanche/Binance/Ethereum/Optimism/Polygon)} --data {updata data}
 # if return 'updatePredictionFeeds suc', update success.

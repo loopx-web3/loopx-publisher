@@ -18,7 +18,7 @@ import {
 export class UpdatePredictions {
   private network: string;
   private abi_str: string;
-  
+
   constructor(network_: string, abi_str_: string) {
     this.network = network_;
     this.abi_str = abi_str_;
